@@ -1,0 +1,538 @@
+ 
+Please check if everything is in order and close this case as details are amended in this booking
+-----------------------------------------------------------------------
+
+Please check if everything is in order and close this case as postal code is amended accordingly in this booking.
+
+We are already working on your request, We will inform you when it is solved. Sorry for the inconvenience.
+
+
+ So would request you to kindly go through the below logs once and advise what error exactly is this and why we got the same.
+
+This is WIP, fix would be deployed by today.
+
+
+It’s Known Issue and our IT team are already working in this process, kindly allow us some time we will update you on this at the earliest.
+Sorry for the inconvenience.
+
+we will keep you updated once the issue is resolved
+
+Can you please check at your end as well and let me know if you still having the same issue.
+
+Your soonest revert will help us to investigate
+
+
+Your soonest revert will help us to investigate and chase our supplier for the refund .
+
+
+Its an online booking doen by agent so IT would be able to advise if any loss.
+
+
+
+kindly allow us some time We will inform you when it is solved. 
+
+Sorry for the inconvenience.
+Thank you so much for your prompt reply.
+
+We are working on your request kindly allow us some time we will update you on this at the earliest.
+
+Looking forward to your kindest response on the below.
+
+
+ 
+
+I have created the task on Jira (backlog) and set priority on Highest. we will update ETA after reviewing this issue in JIRA
+
+
+
+This is to inform you that we have received your requirement, Please be assured that we are working on the same and we will get back to you on this at the earliest.
+
+
+
+
+
+This is multi room bundling issue for suppliers like Travco, dotw. Currently no solution available to this. However a fix will be discussed under multi room bundling issue handling which is scheduled in next sprint.
+
+
+
+
+I hope you are taking care of this case. Please let me know if anything required from my side.
+
+
+Could you please check with our supplier this instance and do the needful for the reservation to be cancelled with no charges, as the cancellation attempt took place on 13 Aug - 2018 (before the cancellation deadline)
+
+
+We are trying to call them but there is no response from their side. 
+
+We look forward to hearing from Naveen
+
+We need more details about the issue. Please provide the below
+•	Agency name,
+•	Destination
+•	Checkin – checkout
+•	Pax details
+
+
+
+This is with the regards booking reference number HSLK0A2MWB
+
+We are looking into below mail and we will update you asap.
+ 
+Should you have any further queries, please get back in touch.
+
+
+booking BID-2752794 
+
+
+We are looking inot 
+
+
+This booking is cancelled on GRN and confirmed at the back-end. Please take appropriate action.
+
+
+thank you for writing back. So this is for a different property and the room type. No worries I have already reported the case to concerned team to look at. Will inform you once fixed.
+
+
+They also have deployed the fix and you will not be receiving this issue for future bookings.
+
+
+Kindly shift this booking in cancelled tray on API system and we have already cancelled in supplier system,
+Please find below the supplier system screenshot.
+
+Thanks for the below update.
+
+
+We have already raised this to GTA supplier.
+
+
+Yes some of the  issues are already identified and informed to respective team while for others nothing can be done.
+
+Supplier Hotel Booking Response	
+
+
+Furthermore - ?? ??
+
+you are taking care of below booking.
+
+
+Will wait for your next feedback. 
+
+his is with reference to the booking id: 17-116713 please note, status of this booking is 
+showing as “ IN TREATMENT” at your end. Could you please check and advise that are you able to confirm the same on urgent basis.
+
+
+We will inform you when it is solved. Sorry for the inconvenience. 
+
+
+Your password has been reset and will be received to you via email.
+
+
+
+GRN-201806-038244!h7nrrdir3s2gwgqh37qs3lt65y
+
+Further to the below, I have informed to supplier against the below error.
+
+Shall update you after getting update from them
+
+Very sorry, but we haven’t get any update regarding this, I will follow up again with our support team and let you know once I get an update.
+
+
+Do let me know if you face the same issue again.
+
+Your Tracking number for your query is GRN/201712/176.
+
+
+As soon as they get back to us we will inform you
+
+There is no ambiguity in this invoice as this booking  stands in AmanTravel account and it was made in the month of May when there were no markups on user’s accounts
+
+Hi Rajesh. I have checked the costing. Please review 	.
+
+Nearing two weeks now, with no response
+
+Let me call you to discuss the same.
+
+Could you please respond on below.
+
+Please check and let us know for any further assistance.
+
+Apologies for the delay as we are still awaiting acknowledgement from the supplier.
+Rest assured that we will update you once we receive their response.
+
+This booking (BID-1107945) issued with supplier end and we are still waiting for supplier revert and reminder has been sent again from supplier. 
+
+On investigation, we have found that this agent has tried to finalize BID-1139157 twice today and due to timeout invoice not generated but credit limit got deducted on both attempts.
+Booking was of INR 35104 and the difference of credit limit is INR 70208 which is exactly double of this.
+
+Can you please suggest why this mismatch is happening? Why we are getting different policies on different steps.
+For this booking, we have shown policy as refundable prior to 2 days so we will consider the same policy if our client cancels this booking. Please confirm.
+
+As discussed with you over the call we are getting in touch with the concerned parties and will update you regarding the same in sometime.
+
+Please check the below booking cancellation deadline has been changed. There is some technical issue with the supplier getting cancellation policy issues and New Deadline is 10-06-2017 instead of 12-06-2017.Please check if everything is in order and close this case.
+
+
+Please check the below booking cancellation deadline has been changed.  New Deadline is 03-07-2017 instead of 06-07-2017.Please check if everything is in order and close this case.
+
+We are working on your request kindly allow us some time we will update you soon.
+
+
+As discussed, We have received 2 booking failure from Whitesands supplier due to low credit limit. Kindly upload the credit in whitesands account on urgent priority basis.
+
+
+This is just to inform you that we have received your mail and are working on the same. Kindly allow us some time we will update you at the earliest.
+
+For any corrections in invoice, please send to Manpreet with the Gross and net amount.
+
+
+Meanwhile, kindly check at your end also.
+
+Please suggest so that we can close your query.
+
+Please acknowledge ASAP.
+
+
+Please acknowledge us of you are satisfied with the details so that we can close your query.
+
+
+Please suggest we can close your query.
+
+We will keep you updated once we receive an update from team
+
+Please suggest the hotel name for pickup for sightseeing BID- 1134693
+
+Feel free to get back to us for any other clarification.
+
+We do not have any search logs. unbfortunatly the search logs are available till 24 hours. only
+
+we do not have booking search logs. unfortunately the search logs are available till 24 hours.Please check the price by your end and correct the same as well.
+
+Apologies for not replaying sooner. 
+
+i am waiting for your reply
+
+Please acknowledge once it’s done . 
+
+I am waiting for your reply..?
+
+
+How long your system issue will be resolved..?
+
+Let me check on the below and I will get back to you
+
+We will appreciate your positive response on this.
+
+Any update on below mails..?
+
+I just want to know the Failure reason of this booking as why this booking got failed. 
+
+We are still waiting for your reply and please give us the update on below mails..?
+
+
+We are on it and investigating. Please allow us some time and we will revert.
+
+We are awaiting for your kind response on the below email.
+
+You must have received an email from Manpreet regarding discontinuation of Bonus Points.
+Please contact Manpreet for further clarifications.
+
+Please find the attached booking logs and as we have received the different cancellation policy in ServiceAddRS  and PurchaseConfirmRS for below mentioned. There we have found one day gap for cancellation policy deadline. Please agree to serviceaddRS cancellation policy so that we stay safe till the deadline.
+
+Awaiting to hear from you on the below email.
+
+We are working on your request kindly allow us some time.
+
+We are awaiting for your kind response on the below email.?
+
+
+Your agent (ELITE CELEBRATIONS) booking has been failed on GRN but payment has received please inform the agent Asap.
+
+Your agent (BEST CHOICE TRAVEL AND TOURS) booking has been failed but payment has received on GRN. Please inform the agent Asap.
+
+
+Price increased within 2% in supplier end which is acceptable from tourico.
+
+Supplier cost increased within 2% which is acceptable from tourico.
+ 
+Price Updated from AED 3719.10 to AED 3,723.31 in BID-615903 
+
+Please find the attached booking logs (AE2-100474068) as price got updated from AED 3719.10 to AED 3,723.31 on booking confirmation.
+
+Václav Havel Prague Airport to Accommodation in Prague with a Local Representative
+
+Please check the attached bookings logs of XI-HQ-11056898 as we have received cancellation policy in booking logs check-in before 3 day no charges and you system are showing non-refundable booking as well.
+
+Please to resolve this issue asap.
+
+Price got decreased from supplier side from EUR 177.00 to EUR 161.50. We have updated it in booking. Please check if everything is in order and close this case.
+
+Please share latest voucher with agent for this booking as Meeting point details were missing earlier.
+
+
+No issue price was decreased for supplier end.
+
+booking is cancelled as per conversation with poonam from MMT by sagir from GRNconnect .com
+ 
+Thanks for the mail reminder we already send the case to our sales manager. Please wait our sales manager will contact you soon. Sorry if our process take your time.
+
+This error came from supplier connectivity. We're aware of this and already contact with the relevant department. This should be fixed within a week. Sorry for the inconvenience caused.
+
+
+Our agent has cancelled this booking before of deadline as we received cancellation policy on logs But your system is showing full Penalties on this booking. Kindly check and give the full refund of this booking.
+
+
+Please let me know if you need any further information. 
+
+If you have any questions or need further information, please feel free to contact me. 
+
+If there is any information you would find helpful to see in these updates, please let me know. 
+
+Please let us know if you see any inaccuracy in your information or if your information 
+changes.
+
+If you have any questions or need further information, please contact me at: partner@e-conomic.com 
+
+When we receive your request for payment, we will let you know if weneed any additional information from you. 
+
+When we receive your request for payment, we will let you know if weneed any additional information from you. 
+
+If at any time you have any questions or you disagree with any of the information I will be passing on to you, please let me know. 
+
+Should you need further information, please do not hesitate to contact me at your convenience. 
+
+If you need any further information, please do not hesitate to contact me at your convenience. 
+
+If any colleagues wish to go on the circulation list, please let me knowand I shall be happy to oblige them. 
+
+I assure you that team would be reaching out to them today and provide them complete solution.
+
+If you need further information, please contact us by using the form below.
+
+We have distributed them for your review, and if you have any questions or comments about them, please let me or anyone on the Committeeknow. 
+
+If you need further information about PR electronics and our products, or do you have any questions, comments concerning our website, news, etc. please do not hesitate 
+to contact us by filling out the form below.
+
+
+And please feel free to let me know what I can do to help you gain the skills you need. 
+
+If you should need this invoice to be issued with an order number, in the name of another company or with any other details, please let us knowas soon as possible. 
+
+Additionally, if at any time you wish us to stop using your information forany or all of the below purposes, please let us know. 
+
+If you ever need anything around my area, please let me know. 
+
+If you need further information to analyze this question, please state your assumptions clearly when providing your answer.
+
+We have more trips to offer...if you need further information pleasecontact us at 
+
+Should you need any further information on the organization of the meetings, please contact us by one of the following means
+
+We would be glad to provide any information you need, if you havefurther questions on 
+our Internet pages, or on the use of your personal data.
+
+I hope I have explained everything clearly but please do not hesitate to get in touch if you need any further information. 
+
+Please Note : Price got decreased from supplier side from USD 95.76 to USD 84.49. We have updated it in booking. Please check if everything is in order and close this case.
+Booking Time : 12/26/2017 12:23:47 PM
+
+Dear Yamini, As discussed, please inform the agent there is some got cancellation policy issue from supplier end but now we have corrected cancellation deadline. Please check if everything is in order and close this case.
+
+Dear Team, Please inform the agent there is found cancellation policy issue from supplier end but now we have corrected cancellation deadline. Please check if everything is in order and close this case.
+
+there is no other way to find the pysical adddress. actually there is dynamic area and different-2 network provider give the different ip adddress and no option to locate the 
+
+Kindly as we we got the cancellation policy from our system was showing time limit since our agent had cancelled the booking accordingly, but your system is showing it non-refundable while this booking should be free of charge.
+
+
+I want to go and attend his Condolence meet in my home town. I will be thankful to you
+
+
+I want to inform you that my Uncle (mausa) has passed away on Last saturday.Coming Friday his Shok Sabha in my home town and I want to attend this. So please accept my leave from (21st, July, 2023). I will be thankful to you.  
+
+Dear Sir,
+
+I want to inform you that my cousin (you can mention any relationship) has passed away. So I will not come to the office for three days (you can change the days). Please note my leaves.
+
+
+"Authorisation declined by bank" Which means
+If a charge is not authorized, it usually means that there is a problem with the account or that you are at, near, or over your credit limit. Usually, when you use your credit card at a store the merchant obtains authorization from the card issuer.
+
+https://www.grnconnect.com/support/Deletehotel.aspx?param=1394500
+
+
+Booking finalised by agent 2 times - ORN VACATIONS PVT. LTD
+
+GSA Agent (Akashbari Holidays) want to change the information to show the names of our sales agents as it would be easier for our B2B partners to directly communicate with us
+
+ Enjoy your weekend?
+I hope you enjoyed your trip.
+We hope you had the time away you needed!
+I hope all is well with you.
+We hope you have a wonderful holiday season.
+I hope you had a great time at [insert event].
+It was a pleasure to meet you at the convention.
+It was great to see you [insert time].
+I wanted to thank you for yesterday’s presentation. It was very informative and everyone enjoyed it. We look forward to attending the next event together.
+This email is in regards to/regarding/concerning/in connection with…
+I am writing to you to follow up and get your thoughts on our last interaction.
+Please get in touch with me to [reason]
+Why am I reaching out?
+This email is to inform you [reason]
+Hello, my name is [Your Name] and I am from [Your Company].
+How to reply:
+I just got received your request for…
+I just went through your email about…
+As per our discussion, I would like to send you…
+Thank you for your previous email about… It was great to know.
+Thanks for writing to us this morning/yesterday/on Wednesday/last month…
+Thank you for sending us feedback on/your invitation/your suggestion. It is greatly appreciated.
+Thank you for sending/asking about/attending.
+Thank you for replying so quickly.
+Thank you for responding so quickly.
+Thank you for your response.
+
+How to apologize?
+Sorry for replying so late.
+Sorry, it took me longer than usual to get back to you.
+I am sorry for my late response.
+Sorry, it has been a while since my last email.
+I was sorry to hear about it… Please accept my apologies/condolences.
+We deeply regret any inconveniences caused. Please accept our apology.
+
+How to talk about attachments and information?
+With this email,I’ve attached…
+Please find [file] attached to this email.
+I have enclosed [file].
+The changes made are in bold/in red/in blue are my comments/.
+Please go through the attached file and review it.
+The file I have sent is a pdf file.
+The contents of the attached file are…
+Please sign the attached form and send it back to us by [date].
+As discussed, here’s the [document].
+I have attached [file].
+Please tgo through at the attached file.
+Please check the [file] I’ve attached to this email.
+I am attaching [file].
+Please visit www.talaera.com for more information.
+Please make a note that…
+
+Requests and inquiries:
+Could you please…?
+Kindly tell me…?
+I’d really appreciate it if you…
+I’d be highly grateful if you…
+If you could send us/me…, it would be of great help.
+If possible, I’d like to know (more) about…
+Please find my two main questions below.
+
+How to ask for clarifications:
+Sorry I didn’t understand it fully. Could you please explain that again?
+I didn’t quite get it. Could you be more specific?
+Could you repeat what you said about…?
+Could you give us some more details on…?
+I would really appreciate if you could shed some light on this topic.
+Could you please clarify [something]?
+What are your expectations? When do you wish to have this feature?
+Please find the details on…
+Could you please let us know what you would like us to do about…?
+If I am not mistaken, you would like me to…
+What do you mean by [something]?
+Could you explain it to me again?
+In other words, you would want us to?
+
+Sharing information:
+Use these helpful phrases when you are sharing information to someone or when they have already told you.
+
+Thank you for keeping me in the know.
+Thank you for notifying me.
+Please take a note…
+Just to remind you…
+Just a quick/friendly reminder that…
+Thank you for sharing.
+I’d like to inform you that…
+Just a quick heads up.
+Thanks for keeping me in the loop.
+Please keep me informed/posted/updated/in the loop.
+
+How to get and give approval?
+Is it OK with you? Please let me know.
+What do you think about this?
+What are your views?
+Please let me know your views.
+We are just waiting for your thumbs up/green light. (=we’re waiting for approval).
+You (totally) have the go-ahead.
+He approved it, so you can start working on the project.
+
+How to schedule via email:
+If it is comfortable for you, I’d like to schedule a meeting on [day].
+I am available on [day], is that convenient for you?
+Would you be available/free on [day]? If so, I’ll send you an invite shortly.
+Is [day] feasible for you? If so, I’ll book accordingly.
+I’m afraid I won’t be able to make it on [day]. How about…?
+We are sorry to inform you that the interview/meeting scheduled for [day] will have to be rescheduled. Please accept our apologies.
+
+How to give bad news on email:
+Unfortunately, …
+Unfortunately, we cannot/we are unable to …
+Unfortunately, I have to inform you that…
+I’m afraid that we won’t be..
+I regret to inform you that (because of…) …
+After careful consideration, we have taken a decision to not to …
+Due to [reason], it seems unlikely to..
+It’s against company rules to…
+I put in my best efforts, but…
+Despite putting in my best efforts, …
+I’m sorry but it’s not in my domain
+I’m afraid it is not possible for me to..
+I regret to tell you that…
+
+When the response is expected:
+The next time you need to text someone and don’t know what to say, try one of these lines: -Do you want a reply? -Are we meeting soon? And my personal favorites closing lines are…
+
+Looking forward to your reply.
+I look forward to your reply soon.
+See you on Thursday/next week.
+Thanks you so much.
+Thank you in advance.
+Thank you for everything.
+Cheers.
+Any feedback you can give me on this would be greatly/highly/much appreciated.
+If you could have it ready by tomorrow/the end of next week, I would really appreciate it.
+I would appreciate your help in this matter.
+How to offer help or information:
+I hope this is of your help.
+I hope it is clear to you now.
+I hope we have answered all your questions.
+If you need any additional assistance, please let us know..
+If you need any help, please let me know.
+For more details…
+If you need any more information in the meantime, please don’t hesitate to contact us.
+If you need more information, please don’t hesitate to contact us.
+Please let me know if there’s anything I’ve said that doesn’t make sense. I want to be sure you have all the information you need to make a decision.
+How to apologize (again!):
+Thank you for your understanding/for your patience.
+Thanks again for your understanding/for your patience.
+We apologize for any inconvenience caused.
+Is this okay with you?
+I am confident that we can find a solution to this problem soon.
+I trust that you can understand.
+Thank you for reaching out to me. I wish I could have been more helpful.
+What are some friendly ways to say ‘bye’:
+Best.
+Best wishes.
+Best of luck.
+Welcome, everyone!
+Have a great day!
+
+
+
+
+
+
+me???tt
+
+insta
+a_mritas8
+kittu_pa514
+kasheekadhanwaria
