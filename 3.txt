@@ -1,0 +1,378 @@
+If your mailbox is nearing its maximum capacity, we will begin sending you emails and in-app messages telling you your storage is almost full. If it does exceed capacity, you won't be able to send or receive any messages. Also, people who send you email will receive an error message that tells you your mailbox is full.
+
+below 2 condition wise noreply work fine.
+
+1. enable to auto archieved policy - nitin said this already enabled and set by auto archieved with unlimited space storage.
+2. inbox mail capacity - its 10 lakh and be more as per your plan storage. there we already done storage free 4.5 lakhs archieved mails.
+
+
+i have informed to nitin raise concern to microsoft team if auto archieved emails unlimited then via space 
+
+
+All time limit booking
+Overall cancellation report
+
+Grnconnect4321
+cmqtlbyspzpptwbn
+
+RAcpm632
+
+Need Report failed Booking against confirmed booking collective data required.
+
+
+Currency Mismatch issue incase of Booking already exist on Old curren
+
+
+BID-2729059 - balance going nagative in this booking.
+ops side before transfered fanalized booking amount deduction - 
+Parent payable amount: USD 2907.0000
+Parent Current Balance: 3114.0000
+Parent New Balance: 207.0000
+
+ops side after finalized adhoc transfered , Markup:12
+Parent New Balance: 207.0000
+Parent Current Balance: 3114.0000
+Parent New Balance: -2954.0000
+
+
+BID-2099099 - booking amount - USD 1221.00
+sub agent paid online payment - USD  1185.0000
+
+main agent -  3% and commission - 4%
+sub-agent - no mark u
+
+testagent@nedivatech.com
+12345678
+subagent1@nedivatech.com
+Office@12345
+
+
+newagent1_subagent@nedivatech.com
+
+GRNpra@123
+
+
+BID-69882
+
+
+BID-69879 - USD 302.00
+
+
+new1agent@nedivatech.com
+
+there is no loss and price decreased from supplier side.
+
+
+
+524.1873
+
+
+User make booking behalf of Agent
+
+user - Search - make booking - Transfered - 
+
+
+
+User made Non-refundable booking and later transferred on high markup
+
+
+
+User make booking behalf of agent with Default markup But After transfered with Adhoc markup
+
+consoledated billiing with master agent
+
+credit deduction by indepence setting
+
+Master Agent
+Coagent
+Sub-agent
+
+As discussed with Sovit, Sandeep 
+
+he advised to both how to prepare the report Recheck failure and Booking failure report.
+
+
+
+Login ID: - kis_73668 / AMAN_TRAV
+
+Grnconnect@1234
+Home2 suites by hilton baltimore/white mars
+
+Master threshold - 25000.0000
+co-agent threshold - 
+BDT 219204.00
+
+
+4 booking
+GRNCON-160
+GRNCON-481
+GRNCON-325
+
+
+
+Amangrn23@
+
+productCode":"7167P34
+
+As per GRN : 
+San Francisco in a Day: Golden Gate Bridge, Chinatown, Fishermans Wharf
+
+As per Viator
+Ultimate San Francisco Walking Tour with Scenic Bay Cruise
+
+
+check and verify the which transfer passing wrong contact no
+create the task +91 if include that issue happen on passing v3 create task
+meal filter also add on apartments create task
+
+trunkcate remarks create 
+
+Make Validation to accept contact no with country code issue finding by IT team
+
+i advised to sandip many times to keep prepared report with proper format But all time 
+
+we have to explain the daily work and explain it how to work and what action would be taken.
+
+Booking got failed due to Rejected by System (Not Enough Credit Limit) Issue raised by IT team
+
+BID-26172- online - 
+BID-26173- online - 
+BID-26174- online - 
+BID-26175- online - 
+BID-26172- online - 
+
+USDMC - tranfered agent - xyz - 10000
+credit internal account
+
+BID-26172- online - - xyz - account need without invoice.
+BID-26172- online - - xyz - account need without invoice.
+BID-26173- online - - xyz - account need without invoice.
+BID-26174- online - xyz - account need without invoice.
+BID-26175- online - - xyz - account need without invoice.
+BID-26172- online - - xyz - account need without invoice.
+
+package bkg - BID-34535 - agent transfered-invoice generrated
+
+
+ASHWINI YADAV
+insta
+
+
+https:wa.me/+918016154722
+
+
+
+---------------------------------
+Saanvi Sharm
+SBI bank
+41064508844
+-------------------------------------
+
+UPI Ref. 361723448280 - 1000 - 05:09 PM - 08-09
+UPI REf. 361725580182 - 4000 - 05:39 PM - 08-09
+UPI Ref. 361811725468 - 3500 - 12:35 PM - 09-09
+UPI Ref. 361812472730 - 11500- 12:45 PM
+UPI Ref. 361813615964 - 15000 -01:01 PM
+UPI Ref. 361815637606 - 5000 - 01:31 PM
+UPI Ref. 325229193712 - 25350 - 02:26 PM
+UPI ref. 325220641861 - 12350 - 02:50 PM
+--------------------------------------------------------------
+Net Banking - d7c5a1944efc11eebd0d0ab130e90000 - 04:07 PM
+---------------------------------------------------------------
+
+361723448280,361725580182,361811725468,361812472730,361813615964,361815637606,325229193712,325220641861,d7c5a1944efc11eebd0d0ab130e90000
+----------------------------------------------------------------
+361723448280
+
+
+
+
+
+
+
+1. Master setting wrong..
+2. Master agent finalize by cc to co-agent bkgs that time issue happend.
+3. Master created booking easily and finalise by CC wihtout any issue.
+4. In this case co-agent booking finalise then first check on credit intead of wallet.
+
+
+Sivam, P432+JXH, Pocket 25, Sector 3G, Rohini, Delhi, 110085
+
+4, Pocket G-27, Sector 3G, Rohini, Delhi, 110085
+4, Pocket G-27, Sector 3G, Rohini, Delhi, 110085
+
+
+
+
+UG7R^GtwU4i6P9
+
+Expedia
+INR - agent
+Nationality - NON-INDIA
+Purchase - NON-INR
+
+
+Do not honor	
+
+how to avoid in future
+
+
+booking BID-2749027 as 
+
+
+2fitznruqcmtyyyqkh7t4gfwji
+wonarpr4wf5htckqvsjtiagq4gck3xfj6lqlrtzk3rbbdypiigcx7avfenmx32vt6q
+
+Recheck failed against booked record - 
+
+Payment source like (visa/master/amex) not display in payment history in case of Payment done with Fulton Gateway issue raised by IT team.
+
+
+
+Master agent : - 
+AKASHBARI HOLIDAYS	acc.akbh@gmail.com
+Co-agent : - 
+AKASHBARI HOLIDAYS	b2b.akashbari@gmail.com
+sub-agent
+SKY HOLIDAYS - rezaskyholidays@gmail.com
+
+
+Master agent : - 
+AKASHBARI HOLIDAYS	acc.akbh@gmail.com
+Co-agent : - 
+AKASHBARI HOLIDAYS	b2b.akashbari@gmail.com
+sub-agent
+FORTUNE TRAVELS LTD - FORTUNEFTLTD@GMAIL.COM
+
+
+
+Demo test: - 
+eldeeb.hamour@nedivatech.com	
+C0-agent
+INTL@NEDIVATECH.COM
+sub-agent
+MAANTRAVELS@GMAIL.COM
+
+
+
+atulpandit898@gmail.com
+ee1b1250
+
+
+grntraversia@gmail.com	
+
+
+Master 
+agent1@nedivatech.com
+12345678
+
+Co-Agent
+AMIT@NEDIVATECH.COM
+12345678
+Sub-Agent
+ANKUR@NEDIVATECH.COM
+12345678
+
+1605774	INV/23-24/531027/SKT/41200 - BID-2822597
+1605773	INV/23-24/531026/SKT/41199 - BID-2823656
+
+
+1613091	INV/23-24/533754/SKT/43331 - BID-2834340
+1613090	INV/23-24/533753/SKT/43330 - BID-2842041
+1614207	INV/23-24/534144/SKT/43661 - BID-2841485
+1614206	INV/23-24/534143/SKT/43660 - BID-2763877
+1614726	INV/23-24/534326/SKT/43798 - BID-2846380
+1614725	INV/23-24/534325/SKT/43797 - BID-2846369
+1614797	INV/23-24/534363/SKT/43827 - BID-2789761
+1614796	INV/23-24/534362/SKT/43826 - BID-2702588
+1624874	INV/23-24/537903/SKT/46609 - BID-2873034
+1624873	INV/23-24/537902/SKT/46608 - BID-2873031
+1624785	INV/23-24/537876/SKT/46588 - BID-2872751
+1624784	INV/23-24/537875/SKT/46587 - BID-2872767
+1624691	INV/23-24/537846/SKT/46563 - BID-2872490
+1624690	INV/23-24/537845/SKT/46562 - BID-2872496
+1626541	INV/23-24/538464/SKT/47050 - BID-2877504
+1626540	INV/23-24/538463/SKT/47049 - BID-2877506
+1629299	INV/23-24/539433/SKT/47825 - BID-2884242
+1629298	INV/23-24/539432/SKT/47824 - BID-2884253
+1629299	INV/23-24/539433/SKT/47825 - BID-2884242
+1629298	INV/23-24/539432/SKT/47824 - BID-2884253
+1630720	INV/23-24/539941/SKT/48229 - BID-2887920
+1630719	INV/23-24/539940/SKT/48228 - BID-2887908
+1630945	INV/23-24/540015/SKT/48292 - BID-2888600
+1630944	INV/23-24/540014/SKT/48291 - BID-2888594
+1631096	INV/23-24/540072/SKT/48339 - BID-2888882
+1631095	INV/23-24/540071/SKT/48338 - BID-2888884
+1631901	INV/23-24/540361/SKT/48549 - BID-2891073
+1631900	INV/23-24/540360/SKT/48548 - BID-2891083
+1632224	INV/23-24/540485/SKT/48643 - BID-2892047
+1632223	INV/23-24/540484/SKT/48642 - BID-2892057
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+1. duplicate invoices time IRN generated - https://www.grnconnect.com/information.aspx?command=getDuplicateInvoices&param=
+2. Make alert of duplicate invoices time
+3. below URL not working - https://www.grnconnect.com/api/auto/auto-Refreshsupplierreferences.aspx
+4. supplier Vat coming in report
+5. Supplier Ref. missing getting on report.
+
+
+
+
+
+
+
+
+
+Booking Minimum markup pop up alert not coming in Package offline booking
+
+
+Minimum markup set on offline booking, Issue Raised by Sunil Bisht
+
+
+
+
+
+
+122.167.243.80
+
+
+
+
+BDM – Rohit Singh – instead of VP sales
+
+
+
+BID-72030
+
+
+
+He asked me to search in front and said that the show was on the institute's checkout page.
+
+
+1636304	INV/23-24/541937/SKT/49741 - BID-2903134
+1636303	INV/23-24/541936/SKT/49740 - BID-2903129
+
+
+
+yesterday i am on leave and Today Update
+
+Rohit task 
+
+
+itrip_web to Itrip
+
+
+
+
+AGent LGT BUSINESS - Our payment History wrong display the same trasection id with multiple times issue raised by Soni Priya (Account Team)
