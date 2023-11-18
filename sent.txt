@@ -1,0 +1,51 @@
+1. Agent  - done
+2. Agent-subagent -faild
+3. Master Agent - Coagent - Subagent -
+4. Master Agent - Coagent
+5. Coagent - Subagent 
+6. User transfer - - online & offline
+7. pending booking user to transefer - online & offline
+8. session Part - Credit alot check with same session booking creation
+
+
+
+points - 02
+ Agent
+dom1@nedivatech.com
+Grnconnect@1234
+
+subagent - BID-64563
+ATULS7241@GMAIL.COM
+12345678
+
+1. wallet not deduct - subagent
+2. Parent Currency: INR total missing Agent-subagent
+3. Credit balance going nagative - Agent-subagent
+
+
+point - 3
+3. Master Agent - BID-64595
+master agent
+agent1@nedivatech.com
+
+
+1. credit and Wallet not calculate
+2. Booking finalize failed pop up correct massage not display on booking finalize.
+3. credit error not captured in view log in case of post finalize.
+
+
+Point - 05
+Coagent - Subagent - BID-64569
+co-agent
+AMIT@NEDIVATECH.COM
+12345678
+
+
+
+6. User transfer - - online & offline - 
+USer ops
+opsdemo@gmail.com - BID-64572
+GRnconnect@1234
+
+
+

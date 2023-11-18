@@ -1,0 +1,414 @@
+Covidmay!@12
+
+itsupport@grnconnect.com
+Grn@25Grn
+------------------------------------
+Keeper PAssword
+itsupport@grnconnect.com
+Grnconnect@#1234
+Grnconnect@#4321
+	
+-------------------------------------
+Good Access Login - 
+Sovit10amantravelsgroup@gmail.com
+Grnconnect@1234
+---------------------------------------
+http://staging4.grnconnect.com/support/searchanalysis.aspx
+http://staging4.grnconnect.com/
+itsupport@grnconnect.com
+Grn@25Grn
+-----------------------------------------
+GRNAED1576
+74YXr05P7cnMB
+-----------------------------------------
+test AED User- Live
+
+sovit.nedivatech@gmail.com
+Grnconnect@1234
+---------------------------------
+test USD User- Live
+ishi2187@gmail.com
+Grnconnect@1234
+
+------------------------------------
+Traverasia Login - details
+dom1@nedivatech.com
+Grnc@789
+-----------------------------
+
+Username : sovitk940@gmail.com
+Grnconnect@#1234
+
+
+ishi2187@gmail.com 
+GRNgrn@123
+
+
+UNIGLOBE STAR INDIA TRAVEL
+rkaur@uniglobestar.in - 40472
+
+
+
+Hhiaacopnect@8975
+1 . Mark up rate calculation summery tools.
+
+Grn@12345
+grn@12345
+
+
+GRNc@789
+
+
+2520034 - dubai
+
+--------------------------
+itsupport@nedivatech.com
+CEO - Agent
+User ID: 60018526223
+----------------------------
+apisupport@grnconnect.com
+UserID- 60018446911
+
+138.199.61.194
+
+GRN$@1964
+
+Daksh@25168
+
+-------------------------------
+Adding Karan ++
+
+@Karan - This issue is tracked under below task in jira. we will update ETA after reviewing this issue in JIRA.
+
+
+torrentgalaxy
+glodis.to
+demonoid.is
+GattyYG
+
+QTS33001
+
+Dear Sir, Kindly move this agent to Easebuzz to Pinelab PG.
+Agent Name : - RISING STAR TOURS AND TRAVELS
+Email id: - international@traveldham.com	
+Agent ID : - 14046
+
+Hotel Name : - Athenaeum Intercontinental
+
+Its booking supplier is booking.com (@pay at hotel), we have wrongly invoiced of this agent so this invoice against i have given full credit note.
+
+Nassima Tower Hotel apartments - dubai
+
+Grnconnect@12345
+
+grn.anisha@gmail.com
+
+timelimit - finlize by credit/finalize by online payment/cancel - visible
+undercancellation - finlize by credit/finalize by online payment/cancel - not visible
+failed booking -finlize by credit/finalize by online payment/cancel  - not visible
+active - finlize by credit/finalize by online payment/cancel  - not visible
+
+SCOUT MY HOLIDAYs
+
+GBP-Payment issue in CCavenue India gateway.
+
+BID-2520091
+BID-2513570
+BID-2458667
+time limit bkg which finalize by agent before of deadline.
+
+2499297
+
+office@amanvitravel.bg
+
+in progress task discussed
+new task discussed
+payment issue 
+sales report issue discussion with sunil
+amendment related issue discuss
+
+
+
+BID-2546247 - wrongly updated in purchase cost on v3 by sandeep
+
+
+
+
+This agent (IMXPLORER) payment issue raised by Rohit on yesterday, I escalated this issue to Vishal Easebuzz team and discussed on call, why client not able to make payment in case also card bank-customer care team suggested to client issue with merchant side.
+
+Authorization by declined bank - mostly payment issue got with client card side..
+
+
+Sub-Agent : - mailto:tours.usa@satgurutravel.com
+40562
+
+Master-Agent : - mailto:info.usa@satgurutravel.com
+39723
+
+Issue is coming in Sub-agent acc.
+
+3D Secure is an additional layer of card holder authentication on online card transactions. If a card holder is making a payment online and the bank detects that the transaction might be suspicious, the bank card issuer redirects them to a 3DS page for extra verification.
+
+The customer's card issue has indicated there is a problem with the card number. The customer should use an alternate credit card, or contact their bank.
+
+2 - Declined
+50716-Transaction declined. 3D Secure authentication failed.
+
+We need to educate and understand how these are getting missed by operations/sales team.
+
+Kinan raised the issue with me on yesterday that agent (SATGURU TRAVEL TOURISM LLC -info.usa@satgurutravel.com) under sub-agent - TOURS.USA@SATGURUTRAVEL.COM not able to make login on GRN. we found main agent registered sub-agent profile as india country wise.
+
+
+
+Junior Suite With Plunge Pool Sea-View - Breakfast Included In The Price 
+(Junior Suite With Plunge Pool Sea-View - Breakfast Included In The Price : Bed And Breakfast),
+
+Sea View And Terrace Premium Twin Room - Breakfast Included In The Price 
+(Sea View And Terrace Premium Twin Room - Breakfast Included In The Price : Bed And Breakfast)
+
+
+
+
+1 which email not identify which agent replace email id..
+
+2. agent to sub-agent convert
+
+3. parallel login account unable to change email id option right to give manpreet.
+
+4. parellel login profile update information right to give manpreet.
+
+5. sub-agent account profile update icon display right to manpreet
+
+6. Gst no Update right in case agent share to manpreet.
+
+7. GST History which update by agent to display agent profile.
+
+8. email id change effect not replace the agent profile in same time. use to link refresh.
+
+9. bulk process/manually process incase change mapping that not reflect in booking at same time.
+
+10. Hotel Pax name/name amendment and update agent ref. icon option right to give on ops. (issue comes up when pan name not match with pancard).
+
+11. Basis user with Amendment profile----
+1. visible all booking
+2. all agents visible - no action button display
+3. booking edit- purchase cost change,booking price
+
+12. Add bulk tool to give online payment access.
+
+13. all time limit booking or overall cancellation report download as acording to sales person. 
+ 
+
+Dear all
+
+Please upgrade good access new version in your Laptop, Its effective and work
+
+
+BALMER LAWRIE AND CO. LTD. -35245
+SHAKTI TRAVELS - 6641
+
+
+1. Kindly below invoice purchase order tag with this booking.
+
+
+BID-2150384//CID64352//Vaitor - INR 9024.00 - We tried to get waiver many times for supplier but they denied and so we have to bear the loss and get approval in this booking. 
+
+All Agency Directory report Data get according to sale person wise in user Account
+Agency Directory Access - Address Field Missing
+
+
+sovitk1@gmail.com - 100000
+
+opsexecutive@gmail.com - 10000
+
+CCNA Routing & Switching Training, GreyCampus & MCSE : 70-413 Designing and Implementing a Server Infrastructure, Skillsoft Software Services
+ 
+1. Agent payment Failed related what advise to agent to try payment with other mode.
+2. How to GoodAccess/Open VPN setup process in case Timeout or connection issue etc.
+3. Agent Login Issue/password reset issue.
+4  Agent profile activation/updation/correction/currency change related ask to manpreet
+5. Agent Payment Right in case ops got email - access denied when New agent attempts by payment online.
+
+GRNCON-96 - Ankur Need report from API so UI is not needed.
+GRNCON-93 - This is closed here as all the reports belongs to API.
+
+BID-2656047 - GRN-202307-981788 - agoda_j_cc-376103067
+
+BID-2644708 - Tour Date: Friday, 14th Jul 2023
+
+
+arun
+8700834032
+
+Aarti
+8745868584
+7529922659
+
+
+864398069851593
+
+864398069851601
+
+WD-PB-001054/2023
+
+
+1. PG report with error - payment failure check of PG 
+
+type of error advise
+
+Pine lab payment failure reason not found
+amex payment failure reason not found
+Ccavenue some of case time no reason recieved
+most error not found in PG level.
+
+
+878.25 USD to 724.76 USD
+
+SALES@GLOCALHOLIDAY.COM
+
+242001
+
+EVPA9356M
+
+BID-2497024 - no pan given by ops., please check with ops to get pan with agent.
+
+We are unable to process you request, please try again later after 5 Minutes, We have informed to convened team, we apologise for the inconvenience caused
+
+
+AAKPK4077D
+MANOJ KUMAR SHYAMSUNDER KHETAN
+SUNITA MANOJ KHETAN
+
+GRN-IT-202307-002512!GRN-T-202307-002789!GRN-T-202307-002790!n5hehwdpnj63uv53lnj6h6gkxu 
+
+
+
+eldeeb.hamour@gmail.com	 - Master Agent = no deduction
+operation@go-mundotravel.com	- Co-agent
+
+*Billing- Consolidated
+*Credit Limit Handling - Independent
+BID-2682674 - balance deduct by manually - eldeeb.hamour@gmail.com
+
+BID-2682725
+BID-2682820
+BID-2682827
+
+BID-2682820
+
+Mumy - deswal
+papa - baliyan
+b.com
+ITI
+delhi Police
+65 K
+24-03-1994
+03 PM
+Rashi - taurus
+Height - 5.10
+
+https://outlook.office.com/mail/
+
+Email id - noreply@grnconnect.com
+PWd : - Covidmay!@12
+
+Agent Name : - GLOBE ROVING
+E-mail:booking.globeroving@gmail.com
+Agent ID : - 35897
+Easebuzz to Pine Lab PG
+
+Agent Name : -CORPORATE WORLWIDE STAY LLP
+E-mail:operations@corporate-stay.com
+Agent ID - 17766
+Pine Lab to Easebuzz PG
+
+As per GRN : 
+The One Day in San Francisco Tour with Alcatraz
+
+
+As per Viator
+Small Group tour: San Francisco with optional alcatraz
+
+
+
+Kindly make live of this property
+Hotel Code : 2483772
+Hotel Name : Novotel Chandigarh Tribune Chowk
+
+
+
+
+
+
+
+
+
+
+
+
+
+grnmumbai@gmail.com
+
+kabir.pawa@grnconnect.com
+
+
+GRNCON-596
+GRNCON-639
+
+
+
+
+LETZZGO TOURS - 
+ALQON, Street No 1, Friends Colony Industrial Area, 1/342G, GT Road, Pocket 25, Sector 3G, Rohini, Delhi, 11009
+
+
+
+
+Agent Manual Online Payment Access denied!-----this s-mail should go to concerned "sales person" too, not going currently
+
+
+
+sir, Payment captured on gateway but GRN side status Failed.
+Kindly update on below details in this payment status
+1. INR to EUR
+2. PAYPAL to Gidea
+
+
+
+komal880
+
+
+Total 35 Payment
+Success - 21
+Unsuccsessful - 13
+
+
+
+
+@Naveen Sir  - kindly update the product name on GRN as per viator.
+
+ProductCode:179599P2
+
+As per GRN : 
+Dhow Cruise Dinner Dubai
+
+As per Viator
+Desert Safari Dubai with Buffet Dinner
+
+
+
+I have explained to misc. currency task
+
+
+img_179599P2
+
+
+
+
+Can we display the breakfast on 1st page itself . Ideally when agent searches for 2 pax with breakfast, mostly they assume the rate is with breakfast for both the pax Issue raised by Hardeep
+
+ 36ffb6d0
+
+raja.nedivatech@gmail.com
+Grn@12345
+gRN@12345
